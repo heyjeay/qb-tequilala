@@ -34,4 +34,10 @@ This is a Tequi-la-la job for QBCore, simple job with a shop/stash/vehicle garag
 	},
 ```
 
+## Add this to qb-bossmenu config.lua
+
+```
+['tequilala'] = vector3(-568.577, 291.09, 79.18)
+```
+
 #### Other than that it should be plug and play

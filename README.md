@@ -1,8 +1,10 @@
 # qb-tequilala
+
 This is a Tequi-la-la job for QBCore, simple job with a shop/stash/vehicle garage
 
-Add this to your qb-core shared.lua
+## Add this to your qb-core shared.lua
 
+```
 ["tequilala"] = {
 		label = "Tequi-la-la",
 		defaultDuty = true,
@@ -30,5 +32,6 @@ Add this to your qb-core shared.lua
             },
         },
 	},
+```
 
-Other than that it should be plug and play
+## Other than that it should be plug and play

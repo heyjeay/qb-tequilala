@@ -1,6 +1,6 @@
 # qb-tequilala
 
-This is a Tequi-la-la job script for QBCore that uses qb-target and nh-context, this was forked from https://github.com/DrBlackBeard095/Qb-Burgershot all credit goes to him all I did was make it a Tequi-la-la job!
+This is a Tequi-la-la job script for QBCore that uses qb-target and nh-context, this was forked from https://github.com/DrBlackBeard095/Qb-Burgershot all credit goes to him. All I did was turn it into a Tequi-la-la job!
 
 
 ## REQUIREMENTS

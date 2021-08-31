@@ -1,8 +1,19 @@
 # qb-tequilala
 
-This is a Tequi-la-la job for QBCore, simple job with a shop/stash/vehicle garage
+This is a Tequi-la-la job script for QBCore that uses qb-target and nh-context, this was forked from https://github.com/DrBlackBeard095/Qb-Burgershot all credit goes to him all I did was make it a Tequi-la-la job!
 
-## Add this to your qb-core shared.lua
+
+## REQUIREMENTS
+
+PolyZone https://github.com/mkafrin/PolyZone
+
+qb-target https://github.com/BerkieBb/qb-target
+
+nh-context https://github.com/nerohiro/nh-context
+
+## Add this to the shared.lua in qb-core
+
+### Job
 
 ```
 ["tequilala"] = {
@@ -32,7 +43,8 @@ This is a Tequi-la-la job for QBCore, simple job with a shop/stash/vehicle garag
             },
         },
 	},
-```
+
+``` 
 
 ## Add this to qb-bossmenu config.lua
 
@@ -40,4 +52,4 @@ This is a Tequi-la-la job for QBCore, simple job with a shop/stash/vehicle garag
 ['tequilala'] = vector3(-568.577, 291.09, 79.18)
 ```
 
-#### Other than that it should be plug and play
+#### Other than that it should be good to go!
